@@ -4,9 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-.App-v1.js
-.App-v2.js
-.Apps.js
+/src/App-v1.js
+/src/App-v2.js
+/src/Apps.js
 
 
 # testing
